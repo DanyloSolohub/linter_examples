@@ -11,7 +11,6 @@ include_trailing_comma = true
 force_grid_wrap = 0
 ensure_newline_before_comments = true
 use_parentheses = true
-add_imports = ['from __future__ import annotations']
 skip_gitignore = true
 
 [tool.mypy]
