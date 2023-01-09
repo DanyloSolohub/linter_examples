@@ -32,10 +32,10 @@ repos:
         pass_filenames: false
 #        verbose: true
 #        entry: bash -c 'mypy "$@" || true' --
-  - repo: https://github.com/asottile/pyupgrade
-    rev: v2.32.0
-    hooks:
-      - id: pyupgrade
+#  - repo: https://github.com/asottile/pyupgrade
+#    rev: v2.32.0
+#    hooks:
+#      - id: pyupgrade
   - repo: https://github.com/DanyloSolohub/prehooks
     rev: 1.0.1
     hooks:
