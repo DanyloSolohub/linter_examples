@@ -14,10 +14,6 @@ repos:
     hooks:
       - id: black
         language_version: python
-  - repo: https://github.com/asottile/add-trailing-comma
-    rev: v2.2.3
-    hooks:
-      - id: add-trailing-comma
   - repo: https://github.com/pycqa/flake8
     rev: '4.0.1'
     hooks:
