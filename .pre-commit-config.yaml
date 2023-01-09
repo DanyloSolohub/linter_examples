@@ -37,5 +37,5 @@ repos:
     rev: 5.10.1
     hooks:
       - id: isort
-        args: [ '--settings-file', 'project/.isort.cfg' ]
+        args: [ '--settings-file', '.isort.cfg' ]
         name: isort (python)
