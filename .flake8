@@ -2,7 +2,7 @@
 exclude = .git,__pycache__,docs/source/conf.py,old,build,dist,venv*
 inline-quotes = '
 max-line-length = 120
-ignore = D100, D103, D400
+ignore = D100, D103, D400, D104
 max-expression-complexity=3
 max-cognitive-complexity=3
 max-function-length=5
