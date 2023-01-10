@@ -1,2 +1,1 @@
 pre-commit
-git+https://github.com/DanyloSolohub/prehooks.git#egg=prehooks
