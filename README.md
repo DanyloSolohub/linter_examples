@@ -1,3 +1,5 @@
+git clone https://github.com/DanyloSolohub/linter_examples.git
+
 python3 -m venv venv
 
 source venv/bin/activate
