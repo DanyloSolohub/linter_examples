@@ -1,5 +1,5 @@
 """
-mypy:
+Mypy:
 
     def example_function(first_parameter: list, second_parameter: set, third_parameter: int):
         first_parameter = first_parameter + second_parameter + third_parameter
